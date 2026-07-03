@@ -1,0 +1,223 @@
+query_id,site,subject_id,visit,field,issue,status,date_raised,date_resolved,days_open
+Q001,001,001-002,Cycle 3,platelets,Missing value for 'platelets' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q002,001,001-003,Cycle 1,hemoglobin,Missing value for 'hemoglobin' — please enter or provide reason for missing data,Closed,2026-07-03,2026-07-28,25
+Q003,001,001-003,Cycle 2,platelets,Missing value for 'platelets' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q004,001,001-004,Cycle 2,wbc,Missing value for 'wbc' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q005,001,001-006,Screening,hemoglobin,Missing value for 'hemoglobin' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q006,001,001-012,Screening,platelets,Missing value for 'platelets' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q007,001,001-012,End of Treatment,tumor_size,Missing value for 'tumor_size' — please enter or provide reason for missing data,Closed,2026-07-03,2026-07-30,27
+Q008,001,001-013,Cycle 2,hemoglobin,Missing value for 'hemoglobin' — please enter or provide reason for missing data,Closed,2026-07-03,2026-07-28,25
+Q009,002,002-021,Cycle 2,ecog,Missing value for 'ecog' — please enter or provide reason for missing data,Closed,2026-07-03,2026-07-26,23
+Q010,002,002-023,Cycle 2,hemoglobin,Missing value for 'hemoglobin' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q011,002,002-023,End of Treatment,hemoglobin,Missing value for 'hemoglobin' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q012,002,002-028,Cycle 3,platelets,Missing value for 'platelets' — please enter or provide reason for missing data,Closed,2026-07-03,2026-07-29,26
+Q013,002,002-031,Cycle 2,ecog,Missing value for 'ecog' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q014,002,002-031,Cycle 3,ecog,Missing value for 'ecog' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q015,002,002-035,Cycle 2,platelets,Missing value for 'platelets' — please enter or provide reason for missing data,Closed,2026-07-03,2026-07-24,21
+Q016,003,003-037,Screening,ecog,Missing value for 'ecog' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q017,003,003-038,End of Treatment,platelets,Missing value for 'platelets' — please enter or provide reason for missing data,Open,2026-07-03,,0
+Q018,003,003-039,Cycle 3,wbc,Missing value for 'wbc' — please enter or provide reason for missing data,Closed,2026-07-03,2026-07-31,28
+Q019,003,003-045,Cycle 1,ecog,Missing value for 'ecog' — please enter or provide reason for missing data,Closed,2026-07-03,2026-07-29,26
+Q020,003,003-045,Cycle 3,ecog,Missing value for 'ecog' — please enter or provide reason for missing data,Closed,2026-07-03,2026-07-21,18
+Q021,003,003-037,Screening,ecog,Missing value for 'ecog' — please enter or provide reason for missing data,Closed,2026-07-03,2026-07-05,2
+Q022,001,001-002,Cycle 2,wbc,WBC value 11.5 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q023,001,001-004,Cycle 1,wbc,WBC value 11.4 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-22,19
+Q024,001,001-004,End of Treatment,wbc,WBC value 12.0 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-08,5
+Q025,001,001-005,Cycle 2,wbc,WBC value 11.5 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-21,18
+Q026,001,001-007,Screening,wbc,WBC value 11.5 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-08-02,30
+Q027,001,001-007,Cycle 1,wbc,WBC value 11.4 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-24,21
+Q028,001,001-010,Cycle 1,wbc,WBC value 3.9 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-11,8
+Q029,001,001-013,Cycle 2,wbc,WBC value 11.3 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-10,7
+Q030,001,001-014,Cycle 3,wbc,WBC value 3.7 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q031,001,001-017,Screening,wbc,WBC value 3.6 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q032,002,002-019,Cycle 1,wbc,WBC value 3.8 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-29,26
+Q033,002,002-020,Screening,wbc,WBC value 3.8 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q034,002,002-020,End of Treatment,wbc,WBC value 11.9 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-07,4
+Q035,002,002-022,Cycle 2,wbc,WBC value 11.6 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-28,25
+Q036,002,002-023,Cycle 1,wbc,WBC value 11.3 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-17,14
+Q037,002,002-023,Cycle 2,wbc,WBC value 24.7 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q038,002,002-024,End of Treatment,wbc,WBC value 11.3 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q039,002,002-025,Cycle 3,wbc,WBC value 11.2 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q040,002,002-027,End of Treatment,wbc,WBC value 12.0 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-08,5
+Q041,002,002-029,Cycle 2,wbc,WBC value 11.4 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-13,10
+Q042,002,002-029,End of Treatment,wbc,WBC value 21.7 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-20,17
+Q043,002,002-031,Screening,wbc,WBC value 3.7 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q044,002,002-032,End of Treatment,wbc,WBC value 11.2 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-09,6
+Q045,002,002-033,Cycle 1,wbc,WBC value 22.9 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q046,002,002-034,Screening,wbc,WBC value 20.0 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q047,002,002-034,End of Treatment,wbc,WBC value 11.7 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-06,3
+Q048,002,002-035,Screening,wbc,WBC value 24.4 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q049,002,002-035,Cycle 2,wbc,WBC value 11.2 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q050,002,002-035,Cycle 3,wbc,WBC value 11.4 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-08-02,30
+Q051,003,003-039,Cycle 1,wbc,WBC value 11.6 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-25,22
+Q052,003,003-041,Cycle 2,wbc,WBC value 11.5 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-29,26
+Q053,003,003-041,Cycle 3,wbc,WBC value 3.9 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q054,003,003-041,End of Treatment,wbc,WBC value 11.1 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-29,26
+Q055,003,003-042,End of Treatment,wbc,WBC value 12.0 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-07,4
+Q056,003,003-043,Screening,wbc,WBC value 3.9 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-26,23
+Q057,003,003-043,Cycle 2,wbc,WBC value 3.9 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-19,16
+Q058,003,003-044,Cycle 1,wbc,WBC value 11.4 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-07,4
+Q059,003,003-045,Cycle 2,wbc,WBC value 11.6 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-14,11
+Q060,003,003-046,Screening,wbc,WBC value 11.6 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-08-02,30
+Q061,003,003-047,Cycle 1,wbc,WBC value 12.0 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q062,003,003-049,Cycle 3,wbc,WBC value 3.7 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Open,2026-07-03,,0
+Q063,003,003-050,Screening,wbc,WBC value 11.8 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-24,21
+Q064,003,003-050,Cycle 2,wbc,WBC value 11.9 is outside normal range (4.0–11.0 x10^9/L) — please verify or clarify,Closed,2026-07-03,2026-07-21,18
+Q065,001,001-001,Screening,hemoglobin,Hemoglobin value 11.1 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q066,001,001-001,Cycle 1,hemoglobin,Hemoglobin value 11.9 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-08-02,30
+Q067,001,001-001,Cycle 3,hemoglobin,Hemoglobin value 11.7 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q068,001,001-002,Cycle 3,hemoglobin,Hemoglobin value 17.9 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-16,13
+Q069,001,001-003,Cycle 3,hemoglobin,Hemoglobin value 10.1 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-22,19
+Q070,001,001-004,Cycle 2,hemoglobin,Hemoglobin value 10.6 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-13,10
+Q071,001,001-005,Cycle 1,hemoglobin,Hemoglobin value 10.6 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-18,15
+Q072,001,001-006,Cycle 3,hemoglobin,Hemoglobin value 10.5 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-08-02,30
+Q073,001,001-007,Cycle 1,hemoglobin,Hemoglobin value 11.6 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-17,14
+Q074,001,001-008,Cycle 2,hemoglobin,Hemoglobin value 11.0 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q075,001,001-009,Screening,hemoglobin,Hemoglobin value 4.4 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-12,9
+Q076,001,001-011,Cycle 2,hemoglobin,Hemoglobin value 5.4 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-15,12
+Q077,001,001-011,Cycle 3,hemoglobin,Hemoglobin value 6.3 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q078,001,001-011,End of Treatment,hemoglobin,Hemoglobin value 11.8 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q079,001,001-012,Cycle 3,hemoglobin,Hemoglobin value 11.2 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q080,001,001-012,End of Treatment,hemoglobin,Hemoglobin value 11.7 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q081,001,001-013,Screening,hemoglobin,Hemoglobin value 17.6 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-22,19
+Q082,001,001-013,Cycle 1,hemoglobin,Hemoglobin value 10.2 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q083,001,001-014,Cycle 1,hemoglobin,Hemoglobin value 11.9 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-08,5
+Q084,001,001-015,End of Treatment,hemoglobin,Hemoglobin value 11.5 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-08-01,29
+Q085,001,001-016,Cycle 1,hemoglobin,Hemoglobin value 10.7 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q086,001,001-017,Cycle 2,hemoglobin,Hemoglobin value 17.7 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q087,001,001-018,Screening,hemoglobin,Hemoglobin value 10.5 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-25,22
+Q088,001,001-018,Cycle 1,hemoglobin,Hemoglobin value 11.9 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-10,7
+Q089,001,001-018,End of Treatment,hemoglobin,Hemoglobin value 5.1 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-11,8
+Q090,002,002-020,Screening,hemoglobin,Hemoglobin value 10.7 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q091,002,002-020,Cycle 1,hemoglobin,Hemoglobin value 11.5 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-07,4
+Q092,002,002-020,Cycle 2,hemoglobin,Hemoglobin value 11.0 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-24,21
+Q093,002,002-020,Cycle 3,hemoglobin,Hemoglobin value 11.9 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-08,5
+Q094,002,002-021,Cycle 3,hemoglobin,Hemoglobin value 17.8 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-28,25
+Q095,002,002-023,Cycle 1,hemoglobin,Hemoglobin value 11.1 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-31,28
+Q096,002,002-024,Cycle 2,hemoglobin,Hemoglobin value 10.3 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-23,20
+Q097,002,002-024,Cycle 3,hemoglobin,Hemoglobin value 11.4 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-21,18
+Q098,002,002-024,End of Treatment,hemoglobin,Hemoglobin value 17.6 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-25,22
+Q099,002,002-025,Screening,hemoglobin,Hemoglobin value 17.8 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q100,002,002-025,Cycle 2,hemoglobin,Hemoglobin value 10.2 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q101,002,002-025,End of Treatment,hemoglobin,Hemoglobin value 11.9 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q102,002,002-026,Cycle 3,hemoglobin,Hemoglobin value 17.8 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-27,24
+Q103,002,002-027,Cycle 1,hemoglobin,Hemoglobin value 11.9 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q104,002,002-027,Cycle 2,hemoglobin,Hemoglobin value 10.9 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q105,002,002-027,Cycle 3,hemoglobin,Hemoglobin value 17.6 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q106,002,002-028,End of Treatment,hemoglobin,Hemoglobin value 10.8 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q107,002,002-029,Cycle 3,hemoglobin,Hemoglobin value 11.5 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-12,9
+Q108,002,002-029,End of Treatment,hemoglobin,Hemoglobin value 10.2 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-10,7
+Q109,002,002-030,Cycle 2,hemoglobin,Hemoglobin value 10.9 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-05,2
+Q110,002,002-030,End of Treatment,hemoglobin,Hemoglobin value 10.1 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-23,20
+Q111,002,002-031,Cycle 1,hemoglobin,Hemoglobin value 17.7 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q112,002,002-031,Cycle 2,hemoglobin,Hemoglobin value 11.9 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q113,002,002-031,End of Treatment,hemoglobin,Hemoglobin value 17.7 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-26,23
+Q114,002,002-032,Screening,hemoglobin,Hemoglobin value 17.6 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q115,002,002-032,Cycle 1,hemoglobin,Hemoglobin value 10.5 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-05,2
+Q116,002,002-033,Screening,hemoglobin,Hemoglobin value 10.3 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q117,002,002-034,Cycle 1,hemoglobin,Hemoglobin value 10.8 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-07,4
+Q118,002,002-034,Cycle 2,hemoglobin,Hemoglobin value 11.3 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-10,7
+Q119,002,002-035,Screening,hemoglobin,Hemoglobin value 11.1 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-22,19
+Q120,002,002-035,Cycle 2,hemoglobin,Hemoglobin value 11.2 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q121,003,003-038,Screening,hemoglobin,Hemoglobin value 11.5 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-14,11
+Q122,003,003-039,Cycle 3,hemoglobin,Hemoglobin value 10.9 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q123,003,003-039,End of Treatment,hemoglobin,Hemoglobin value 11.1 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q124,003,003-040,Cycle 1,hemoglobin,Hemoglobin value 11.9 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-19,16
+Q125,003,003-040,Cycle 2,hemoglobin,Hemoglobin value 10.5 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q126,003,003-040,Cycle 3,hemoglobin,Hemoglobin value 10.6 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q127,003,003-041,Screening,hemoglobin,Hemoglobin value 11.3 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-25,22
+Q128,003,003-041,Cycle 2,hemoglobin,Hemoglobin value 11.2 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q129,003,003-042,Cycle 2,hemoglobin,Hemoglobin value 11.0 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-27,24
+Q130,003,003-043,End of Treatment,hemoglobin,Hemoglobin value 17.9 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-22,19
+Q131,003,003-045,Cycle 1,hemoglobin,Hemoglobin value 11.7 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-07-07,4
+Q132,003,003-047,Cycle 2,hemoglobin,Hemoglobin value 10.9 is outside normal range (12.0–17.5 g/dL) — please verify,Closed,2026-07-03,2026-08-02,30
+Q133,003,003-048,Screening,hemoglobin,Hemoglobin value 11.5 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q134,003,003-048,Cycle 2,hemoglobin,Hemoglobin value 10.5 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q135,003,003-049,Screening,hemoglobin,Hemoglobin value 10.6 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q136,003,003-049,End of Treatment,hemoglobin,Hemoglobin value 10.5 is outside normal range (12.0–17.5 g/dL) — please verify,Open,2026-07-03,,0
+Q137,001,001-001,Cycle 1,platelets,Platelet count 408.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-09,6
+Q138,001,001-001,Cycle 2,platelets,Platelet count 103.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-22,19
+Q139,001,001-001,End of Treatment,platelets,Platelet count 122.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q140,001,001-002,Cycle 2,platelets,Platelet count 411.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-13,10
+Q141,001,001-005,Screening,platelets,Platelet count 103.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-12,9
+Q142,001,001-007,Cycle 2,platelets,Platelet count 137.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-24,21
+Q143,001,001-007,Cycle 3,platelets,Platelet count 135.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q144,001,001-007,End of Treatment,platelets,Platelet count 413.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-29,26
+Q145,001,001-008,Cycle 1,platelets,Platelet count 126.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q146,001,001-008,End of Treatment,platelets,Platelet count 120.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-20,17
+Q147,001,001-009,Cycle 1,platelets,Platelet count 442.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q148,001,001-010,End of Treatment,platelets,Platelet count 415.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-16,13
+Q149,001,001-011,Cycle 1,platelets,Platelet count 147.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-22,19
+Q150,001,001-012,Cycle 1,platelets,Platelet count 426.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-10,7
+Q151,001,001-014,Screening,platelets,Platelet count 433.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-28,25
+Q152,001,001-014,Cycle 3,platelets,Platelet count 446.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-08-01,29
+Q153,001,001-015,Cycle 3,platelets,Platelet count 412.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q154,001,001-016,End of Treatment,platelets,Platelet count 401.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-05,2
+Q155,001,001-017,Cycle 1,platelets,Platelet count 106.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-29,26
+Q156,001,001-017,Cycle 3,platelets,Platelet count 127.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-08-01,29
+Q157,001,001-017,End of Treatment,platelets,Platelet count 405.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-15,12
+Q158,001,001-018,Cycle 2,platelets,Platelet count 116.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q159,001,001-018,Cycle 3,platelets,Platelet count 420.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-05,2
+Q160,002,002-019,Cycle 2,platelets,Platelet count 110.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q161,002,002-019,End of Treatment,platelets,Platelet count 443.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-20,17
+Q162,002,002-022,Screening,platelets,Platelet count 107.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-27,24
+Q163,002,002-022,Cycle 1,platelets,Platelet count 419.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q164,002,002-022,End of Treatment,platelets,Platelet count 114.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-25,22
+Q165,002,002-024,Cycle 1,platelets,Platelet count 437.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-06,3
+Q166,002,002-025,Cycle 1,platelets,Platelet count 444.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q167,002,002-026,Cycle 3,platelets,Platelet count 125.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-08,5
+Q168,002,002-027,Cycle 2,platelets,Platelet count 132.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q169,002,002-027,Cycle 3,platelets,Platelet count 122.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q170,002,002-030,Screening,platelets,Platelet count 143.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-30,27
+Q171,002,002-030,Cycle 3,platelets,Platelet count 103.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q172,002,002-031,Cycle 2,platelets,Platelet count 401.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-18,15
+Q173,002,002-031,End of Treatment,platelets,Platelet count 430.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q174,002,002-032,Screening,platelets,Platelet count 421.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-19,16
+Q175,002,002-032,Cycle 3,platelets,Platelet count 414.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q176,002,002-034,Cycle 2,platelets,Platelet count 419.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-23,20
+Q177,003,003-036,Screening,platelets,Platelet count 140.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q178,003,003-037,Screening,platelets,Platelet count 134.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q179,003,003-037,Cycle 1,platelets,Platelet count 429.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-21,18
+Q180,003,003-037,End of Treatment,platelets,Platelet count 124.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-14,11
+Q181,003,003-038,Cycle 2,platelets,Platelet count 408.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q182,003,003-039,Cycle 1,platelets,Platelet count 139.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-07,4
+Q183,003,003-039,Cycle 3,platelets,Platelet count 36.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q184,003,003-039,End of Treatment,platelets,Platelet count 137.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-15,12
+Q185,003,003-040,Screening,platelets,Platelet count 426.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q186,003,003-041,Cycle 2,platelets,Platelet count 437.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-16,13
+Q187,003,003-041,Cycle 3,platelets,Platelet count 13.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q188,003,003-041,End of Treatment,platelets,Platelet count 428.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-21,18
+Q189,003,003-043,Screening,platelets,Platelet count 434.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-17,14
+Q190,003,003-043,Cycle 3,platelets,Platelet count 45.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-26,23
+Q191,003,003-044,Cycle 2,platelets,Platelet count 108.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-21,18
+Q192,003,003-044,Cycle 3,platelets,Platelet count 405.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q193,003,003-044,End of Treatment,platelets,Platelet count 417.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q194,003,003-047,Screening,platelets,Platelet count 119.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q195,003,003-047,End of Treatment,platelets,Platelet count 36.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-05,2
+Q196,003,003-048,End of Treatment,platelets,Platelet count 410.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-07,4
+Q197,003,003-049,Cycle 1,platelets,Platelet count 448.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-19,16
+Q198,003,003-049,Cycle 3,platelets,Platelet count 101.0 is outside normal range (150–400 x10^9/L) — please verify,Open,2026-07-03,,0
+Q199,003,003-049,End of Treatment,platelets,Platelet count 130.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-15,12
+Q200,003,003-050,Cycle 1,platelets,Platelet count 438.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-09,6
+Q201,003,003-036,Screening,platelets,Platelet count 140.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-12,9
+Q202,003,003-037,Screening,platelets,Platelet count 134.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-12,9
+Q203,003,003-037,Cycle 1,platelets,Platelet count 429.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-08-01,29
+Q204,003,003-037,End of Treatment,platelets,Platelet count 124.0 is outside normal range (150–400 x10^9/L) — please verify,Closed,2026-07-03,2026-07-31,28
+Q205,002,002-020,Cycle 1,ecog,ECOG score 9 is invalid — valid values are 0–4 only,Open,2026-07-03,,0
+Q206,002,002-023,End of Treatment,ecog,ECOG score 9 is invalid — valid values are 0–4 only,Closed,2026-07-03,2026-07-11,8
+Q207,002,002-025,End of Treatment,ecog,ECOG score 9 is invalid — valid values are 0–4 only,Closed,2026-07-03,2026-07-29,26
+Q208,002,002-032,Cycle 3,ecog,ECOG score 6 is invalid — valid values are 0–4 only,Open,2026-07-03,,0
+Q209,001,001-004,Cycle 2,visit_date,Visit date 2023-03-24 is before enrollment date 2023-04-06 — please verify,Open,2026-07-03,,0
+Q210,001,001-014,Cycle 2,visit_date,Visit date 2023-02-15 is before enrollment date 2023-02-27 — please verify,Closed,2026-07-03,2026-07-18,15
+Q211,001,001-015,Cycle 1,visit_date,Visit date 2023-01-01 is before enrollment date 2023-01-18 — please verify,Closed,2026-07-03,2026-07-06,3
+Q212,003,003-038,Screening,visit_date,Visit date 2026-08-25 is in the future — cannot record future visits,Closed,2026-07-03,2026-07-25,22
+Q213,003,003-041,Cycle 1,visit_date,Visit date 2026-11-25 is in the future — cannot record future visits,Closed,2026-07-03,2026-07-14,11
+Q214,003,003-044,Cycle 2,visit_date,Visit date 2026-11-04 is in the future — cannot record future visits,Open,2026-07-03,,0
+Q215,003,003-036,All Visits,subject_id,Duplicate entry detected for subject 003-036 — please verify and remove duplicate,Open,2026-07-03,,0
+Q216,003,003-037,All Visits,subject_id,Duplicate entry detected for subject 003-037 — please verify and remove duplicate,Open,2026-07-03,,0
+Q217,001,001-002,Screening,sex,Sex value 'f' is not a valid code — use 'M' or 'F' only,Closed,2026-07-03,2026-07-26,23
+Q218,001,001-002,End of Treatment,sex,Sex value 'f' is not a valid code — use 'M' or 'F' only,Open,2026-07-03,,0
+Q219,001,001-005,End of Treatment,sex,Sex value 'Female' is not a valid code — use 'M' or 'F' only,Closed,2026-07-03,2026-07-21,18
+Q220,002,002-024,Cycle 1,tumor_size,"Tumor size recorded as 0mm — biologically implausible, please verify measurement",Closed,2026-07-03,2026-07-13,10
+Q221,002,002-027,Cycle 2,tumor_size,"Tumor size recorded as 0mm — biologically implausible, please verify measurement",Closed,2026-07-03,2026-07-12,9
+Q222,002,002-031,Cycle 1,tumor_size,"Tumor size recorded as 0mm — biologically implausible, please verify measurement",Closed,2026-07-03,2026-07-12,9
